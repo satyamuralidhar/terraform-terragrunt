@@ -1,5 +1,5 @@
 locals:
   instance_type: t2.micro
-  ami_id: 
+  ami_id: ami-0e6329e222e662a52
   location: ap-south-1
   env: dev
